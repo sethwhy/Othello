@@ -14,8 +14,8 @@ This started off as an in class small assignment that  what just demonstrating t
 ## Collaborators
 
 Name: (Me - student) Seth Davis || Email: sd053520@ohio.edu || System: Windows 11  
-Name: Patricia Lindnerp || Email:lindnerp@ohio.edu || System: ?
-Name: John Dolan || Email: dolan@ohio.edu || System: ? 
+Name: (Professor) Patricia Lindnerp || Email:lindnerp@ohio.edu || System: ?        
+Name: (Professor) John Dolan || Email: dolan@ohio.edu || System: ? 
 
 **Instructions to compile:**
 
