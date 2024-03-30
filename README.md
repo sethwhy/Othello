@@ -2,6 +2,7 @@
 Play a fun game of Othello (Reversi) against an AI or a Friend locally
 
 ## Intended Project
+![image](https://github.com/sethwhy/Othello/assets/89601183/32540b0d-354d-4300-b83a-4b21fa76c4f4)
 
 This started off as an in class small assignment that  what just demonstrating the lengths of what code can do. I decided to take it upon myself and finish the implementation outside of class hours and get help for the artificial intelligence side, while also working fullstack for several portions of this code solo.
 
